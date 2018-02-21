@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html>
-  <head>LOSER
+  <head>
   </head>
   <body>
-      You have been eaten by the wolf
+     <p>YOU DIED</p>
+     <p>You have been eaten by the wolf</p>
 
   </body>
 </html>
